@@ -20,3 +20,6 @@ round_number = int(round(float_number))
 print(number1)
 print(number2)
 print(round_number)
+
+bool = True
+print(bool)
